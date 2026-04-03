@@ -32,7 +32,8 @@ ________________________________________
 ## 📱 Aperçu des écrans
 
 Accueil , Exploration , Détail d'une exposition , Formulaire d'inscription
-<img width="1844" height="1209" alt="ArtScope - Projet Final B2 (1)" src="https://github.com/user-attachments/assets/3671b1f9-9985-48e2-a375-fcd1eeae9c05" />
+<img width="1844" height="1209" alt="ArtScope - Projet Final B2 (2)" src="https://github.com/user-attachments/assets/26edc7c8-6286-4f4d-aeda-03a1d7119772" />
+
 
  
 ________________________________________
