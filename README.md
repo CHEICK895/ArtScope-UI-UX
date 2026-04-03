@@ -59,7 +59,7 @@ l'argile et la matière, directement liées au monde de l'art.
 ________________________________________
 Voir le prototype
 
-🎨https://www.figma.com/proto/yQcZ1T7tAk5pI38gol0Xtu/ArtScope---Projet-Final-B2?node-id=1-20&t=3AppbPLTyLnhBs8R-1
+🎨https://www.figma.com/design/yQcZ1T7tAk5pI38gol0Xtu/ArtScope---Projet-Final-B2?node-id=80-161&t=3AppbPLTyLnhBs8R-1
  
 Outils utilisés
 
